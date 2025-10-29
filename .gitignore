@@ -1,0 +1,63 @@
+# -----------------------------
+# Python cache & build files
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# -----------------------------
+# Jupyter & VS Code settings
+# -----------------------------
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# -----------------------------
+# Data files (large or private)
+# -----------------------------
+# ⚠️ Avoid uploading large datasets or confidential data
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.h5
+*.zip
+*.gz
+
+# -----------------------------
+# Logs & temporary files
+# -----------------------------
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Output / Results
+# -----------------------------
+# (Generated files you can reproduce)
+rf_feature_importances.csv
+Genes_List.csv
+plots/
+results/
+outputs/
+figures/

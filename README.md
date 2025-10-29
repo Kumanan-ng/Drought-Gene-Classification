@@ -1,6 +1,6 @@
-# Random Forest-Based Gene Classification
+# Random Forest-Based Drought-responisve Gene Classification for Rice using Mulit-omics Data
 
-This repository contains Python scripts for classifying drought-associated genes using Random Forest models.
+This repository contains Python scripts for classifying drought-responsive genes in rice using Random Forest models.
 
 ## Files
 - **rf_gene_classifier.py** — Gene classification using Random Forest.

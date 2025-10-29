@@ -15,7 +15,7 @@ Output:
     - Genes_List.csv : Ranked list of genes with average probabilities.
 
 Usage:
-    python gene_ranking_rf.py
+    python rf_gene_prioritization.py
 """
 
 # ===============================================================

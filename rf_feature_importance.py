@@ -16,7 +16,7 @@ from sklearn.ensemble import RandomForestClassifier
 # -------------------------------------------------------------------------
 # Load dataset
 # -------------------------------------------------------------------------
-df = pd.read_csv('DS6_RS.csv')
+df = pd.read_csv('Dataset1.csv')
 df.set_index('GeneID', inplace=True)
 
 

@@ -1,5 +1,5 @@
 """
-Title: Gene Prioritization using Random Forest-based Probability Ranking
+Title: Gene Classification using Random Forest-based Probability Ranking
 Author: Kumanan N Govaichelvan
 Date: 2025-10-30
 
@@ -15,7 +15,7 @@ Output:
     - Genes_List.csv : Ranked list of genes with average probabilities.
 
 Usage:
-    python rf_gene_prioritization.py
+    python rf_gene_classifier.py
 """
 
 # ===============================================================
